@@ -12,6 +12,11 @@
     margin-bottom: 10px;
 }
 
+.portfolio__flex-item:hover{
+    transform:scale(1.05);
+    transition: .9s;
+}
+
 @media (max-width: 1220px) {
     .portfolio__wrapper-flex {
         flex-direction: column;
