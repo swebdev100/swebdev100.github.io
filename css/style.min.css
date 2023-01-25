@@ -38,7 +38,7 @@ body {
     color: #212529;
     /* text-align: left; */
     text-align: center;
-    /* background-color: #fff; */
+    background-color: #f0f0f0;
 }
 [tabindex="-1"]:focus {
     outline: 0 !important;
@@ -331,7 +331,7 @@ template {
     /* padding-top: 205px; */
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
 }
 .promo__title {
