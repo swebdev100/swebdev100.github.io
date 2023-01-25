@@ -399,7 +399,7 @@ template {
     font-size: 100px;
     color:#fff;
     display: inline-block;
-    margin-bottom: 6%;
+    mb
 }
 .title__section-title {
     position: relative;
@@ -498,6 +498,7 @@ template {
     font-weight: 700;
     color: #fff;
     margin-bottom: 15px;
+    text-align: left;
 }
 .menu__link:before {
     content: "";
@@ -1061,6 +1062,9 @@ template {
     .container {
         max-width: 720px;
     }
+    .title_fz48 {
+        font-size: 70px;
+    }
     .title_fz36 {
         font-size: 30px;
         line-height: 42px;
@@ -1122,12 +1126,12 @@ template {
         max-width: 540px;
     }
     .title_fz48 {
-        font-size: 28px;
+        font-size: 50px;
     }
-    .promo__title {
-        line-height: 39px;
-        width: 300px;
-    }
+    /* .promo__title { */
+        /* line-height: 39px; */
+        /* width: 300px; */
+    /* } */
     .about {
         padding-top: 40px;
     }
@@ -1205,7 +1209,7 @@ template {
         padding: 0 10px;
     }
     .title_fz48 {
-        font-size: 26px;
+        font-size: 46px;
     }
     .title_fz36 {
         font-size: 24px;
