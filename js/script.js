@@ -7,7 +7,7 @@ $(document).ready(function () {
 		closeElem = document.querySelector('.menu__close');
 		
 	document.querySelector('.btn').onclick = function() {
-  	document.querySelector(".target").style.backgroundColor = "#000000";
+  	document.querySelector(".btn").style.backgroundColor = "#000000";
 	};
 
 
