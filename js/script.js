@@ -6,9 +6,9 @@ $(document).ready(function () {
 		menu = document.querySelector('.menu'),
 		closeElem = document.querySelector('.menu__close');
 		
-	document.querySelector('.btn').onclick = function() {
-  	document.querySelector(".btn").style.backgroundColor = "#000000";
-	};
+// 	document.querySelector('.btn').onclick = function() {
+//   	document.querySelector(".btn").style.backgroundColor = "#000000";
+// 	};
 
 
 	// hamburger.addEventListener('click', () => {
