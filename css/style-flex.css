@@ -17,7 +17,7 @@
     font-weight: 300;
 }
 
-.promo__wrapper {
+/* .promo__wrapper {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -27,5 +27,5 @@
 .promo__title--2 {
     font-size: 100px;
     color: #fff;
-}
+} */
 
